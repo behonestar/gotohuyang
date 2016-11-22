@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Release\HuyangForm.exe.config
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\Interop.MSScriptControl.dll
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Release\HuyangForm.exe
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Release\HuyangForm.pdb
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Release\Interop.MSScriptControl.dll
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.Form1.resources
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.Properties.Resources.resources
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.exe
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.pdb
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Release\HuyangForm.csprojResolveAssemblyReference.cache

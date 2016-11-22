@@ -1,0 +1,23 @@
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\bin\Debug\HuyangForm.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\bin\Debug\HuyangForm.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\bin\Debug\HuyangForm.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\bin\Debug\Interop.MSScriptControl.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\Interop.MSScriptControl.dll
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\HuyangForm\HuyangForm\obj\Debug\HuyangForm.Form1.resources
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Debug\HuyangForm.exe.config
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Debug\HuyangForm.exe
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Debug\HuyangForm.pdb
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\bin\Debug\Interop.MSScriptControl.dll
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.Form1.resources
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.Properties.Resources.resources
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.exe
+C:\Users\Administrator\Documents\HuyangForm\HuyangForm\obj\Debug\HuyangForm.pdb
